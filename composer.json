@@ -1,0 +1,32 @@
+{
+  "name": "optiosteam/belgian-region-zip",
+  "description": "PHP library for Belgian zip codes and cities per region/province",
+  "keywords": [
+    "Belgian zip codes",
+    "Belgian postal codes",
+    "region",
+    "province",
+    "php",
+    "json"
+  ],
+  "support": {
+    "issues": "https://github.com/optiosteam/belgian-region-zip/issues",
+    "source": "https://github.com/optiosteam/belgian-region-zip"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Optios BV",
+      "email": "dev@optios.net"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Optios\\BelgianRegionZip\\": "src/"
+    }
+  }
+}

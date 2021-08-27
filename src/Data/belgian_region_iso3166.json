@@ -1,0 +1,57 @@
+{
+  "BE-BRU": {
+    "en": "Brussels",
+    "nl": "Brussel",
+    "fr": "Bruxelles"
+  },
+  "BE-WBR": {
+    "en": "Walloon Brabant",
+    "nl": "Waals-Brabant",
+    "fr": "Brabant wallon"
+  },
+  "BE-VBR": {
+    "en": "Flemish Brabant",
+    "nl": "Vlaams-Brabant",
+    "fr": "Brabant flamand"
+  },
+  "BE-VAN": {
+    "en": "Antwerp",
+    "nl": "Antwerpen",
+    "fr": "Anvers"
+  },
+  "BE-VLI": {
+    "en": "Limburg",
+    "nl": "Limburg",
+    "fr": "Limbourg"
+  },
+  "BE-WLG": {
+    "en": "Li\u00e8ge",
+    "nl": "Luik",
+    "fr": "Li\u00e8ge"
+  },
+  "BE-WNA": {
+    "en": "Namur",
+    "nl": "Namen",
+    "fr": "Namur"
+  },
+  "BE-WHT": {
+    "en": "Hainaut",
+    "nl": "Henegouwen",
+    "fr": "Hainaut"
+  },
+  "BE-WLX": {
+    "en": "Luxembourg",
+    "nl": "Luxemburg",
+    "fr": "Luxembourg"
+  },
+  "BE-VWV": {
+    "en": "West Flanders",
+    "nl": "West-Vlaanderen",
+    "fr": "Flandre occidentale"
+  },
+  "BE-VOV": {
+    "en": "East Flanders",
+    "nl": "Oost-Vlaanderen",
+    "fr": "Flandre orientale"
+  }
+}
